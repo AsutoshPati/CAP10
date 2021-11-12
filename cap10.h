@@ -30,6 +30,6 @@
 /*
  * Define library functions
  */
-void add2nums(int num1, int num2);
+int add2nums(int num1, int num2);
 
 #endif

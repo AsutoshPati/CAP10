@@ -1,3 +1,10 @@
+/*
+ * Library for CAP10 board that can be used in Arduino IDE
+ * Author           - Asutosh Pati
+ * Created On       - 12 November 2021
+ * Last Updated On  - 12 November 2021
+ */
+
 #ifndef CAP10_H
 #define CAP10_H
 #include <Arduino.h>

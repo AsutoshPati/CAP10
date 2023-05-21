@@ -18,8 +18,8 @@
           "category": "CAP10",
           "url": "https://github.com/robotics-masters/CAP10/raw/master/custom_board/CAP10-0.0.12.zip",
           "archiveFileName": "CAP10-0.0.12.zip",
-          "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
-          "size": "2381077",
+          "checksum": "SHA-256:6D632D41D77DB9BD42C3199A9912F4E5A6E0ED2F51A72C4F7392D984BD7B9C87",
+          "size": "245113885",
           "boards": [
             {
               "name": "CAP10 V2"

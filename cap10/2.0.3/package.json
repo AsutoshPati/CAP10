@@ -18,8 +18,8 @@
           "category": "CAP10",
           "url": "https://github.com/AsutoshPati/CAP10/raw/master/cap10.zip",
           "archiveFileName": "cap10.zip",
-          "checksum": "SHA-256:4860383D91D117CC90C57AA6669BE0D77D1A9E9ED7E7FF5BE8FB2050D8C16366",
-          "size": "244830566",
+          "checksum": "SHA-256:33C9194A555D6B8E1951AAB6F9BF383DB051812A6309CC914E537FF23B0C8402",
+          "size": "244972351",
           "boards": [
             {
               "name": "CAP10 V2"
